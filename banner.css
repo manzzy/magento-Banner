@@ -180,7 +180,7 @@ button {
     }
 
     .logos .white-variant {
-        display: block;
+        display: none;
     }
     .logos img {
         width: 105px;
